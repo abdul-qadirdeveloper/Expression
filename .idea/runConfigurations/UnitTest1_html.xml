@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="UnitTest1.html" type="JavascriptDebugSession" factoryName="Local" editBeforeRun="true" singleton="true">
+    <JSDebuggerConfigurationSettings>
+      <option name="engineId" value="firefox" />
+      <option name="fileUrl" value="file://$PROJECT_DIR$/Examples/HTML/UnitTest1/UnitTest1.html" />
+    </JSDebuggerConfigurationSettings>
+    <RunnerSettings RunnerId="JavascriptDebugRunner" />
+    <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+    <method />
+  </configuration>
+</component>
